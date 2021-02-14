@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 
 
-@media (min-width: 800px) {
+@media (min-width: 600px) {
     .container-2 {
         display: flex;
         justify-content: space-between;
